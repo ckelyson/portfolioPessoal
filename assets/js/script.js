@@ -109,4 +109,3 @@ if (localStorage.getItem("theme") === "light_theme") {
  * Experiência Profissional, eefeitos
  */
 
-
